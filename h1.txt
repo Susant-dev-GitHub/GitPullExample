@@ -1,2 +1,7 @@
 wer
+<<<<<<< HEAD
 thank you
+=======
+by
+>>>>>>> 1f04fa953b420801a8f292a46e23e9841d25ef18
+ok done
