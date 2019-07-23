@@ -1,0 +1,10 @@
+node{
+	
+stage('buildpipeline'){
+	 
+   git 'https://github.com/Susant-dev-GitHub/GitPullExample.git'
+	
+}
+	
+
+}
